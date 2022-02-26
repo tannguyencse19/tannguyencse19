@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tan Nguyen</h1>
-<h3 align="center">Front-end developer</h3>
+<h3 align="center">Front-end Developer</h3>
 
 <hr />
 
