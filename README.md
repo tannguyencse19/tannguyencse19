@@ -8,7 +8,7 @@
 💡 &nbsp;Self-pace Learning; Indepedent; Passionate to Self-development. Yet, also a team player, ready to dedicate myself for benefit of my team. That's some words I can describe about me.\
 🎓 &nbsp;Currently pursuing Bachelor Degree in Computer Engineering at Ho Chi Minh University of Technology.\
 ✍️ &nbsp;Had try to develop some pet projects in React.js/Next.js + Chakra UI; Vue.js + Vuetify; Java. Eagle to discover what more things can be done with those tools.\
-📄 &nbsp;See my [Résumé](https://www.adityavsingh.com/resume.html) for more details.
+📄 &nbsp;See my [Résumé](https://tannguyencse19.github.io/resume/) for more details.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
