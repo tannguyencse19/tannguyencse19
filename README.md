@@ -1,4 +1,1 @@
-# Social 
-
-- https://www.linkedin.com/in/timothy-tan-nguyen/
-- https://www.facebook.com/nntan0
+[Click here to view my Portfolio](https://timothynguyen.work/)
