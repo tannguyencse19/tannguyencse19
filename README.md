@@ -3,7 +3,9 @@
   Full-Stack Engineer · AI & Data-driven Systems · Shipping production at scale
 </p>
 
----
+### Let’s connect
+- 📧 Email: **tannguyen.cse19@gmail.com**  
+- 🔗 LinkedIn: **https://linkedin.com/in/timothy-tan-nguyen**
 
 ### About me
 - Building **ChatCut** — a browser-based AI video editor — as a Full-Stack Engineer (Antler-backed; credits from AWS/Microsoft/Google).  
@@ -45,14 +47,4 @@
 - **Foundry AI Academy — Data & AI Program** (Apr 2025 → Aug 2025)  
 - **Ho Chi Minh University of Technology** — B.Eng. Computer Engineering (GPA 3.2/4.0)
 
----
 
-### Let’s connect
-- 📧 Email: **tannguyen.cse19@gmail.com**  
-- 🔗 LinkedIn: **https://linkedin.com/in/timothy-tan-nguyen**
-
----
-
-### GitHub quick stats
-![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tannguyencse19&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tannguyencse19&layout=compact)
